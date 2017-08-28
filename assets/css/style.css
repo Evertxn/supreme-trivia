@@ -1,0 +1,58 @@
+header{text-align: center; }
+
+h1 {
+    font-family: 'Futura', cursive;
+    font-size: 50px;
+
+}
+
+h3 {
+
+    margin-top: 10.5px
+}
+
+/*#colors {color: #39f !important;}*/
+/*@-webkit-keyframes colours {*/
+    /*0% {color: red;}*/
+    /*25% {color: white;}*/
+    /*50% {color: darkred;}*/
+    /*75% {color: ghostwhite;}*/
+    /*100% {color: orangered;}*/
+
+/*}*/
+/*#colors {*/
+    /*-webkit-animation-direction: normal;*/
+    /*-webkit-animation-duration: 10s;*/
+    /*-webkit-animation-iteration-count: infinite;*/
+    /*-webkit-animation-name: colours;*/
+    /*-webkit-animation-timing-function: ease;*/
+/*}*/
+
+#questionText {
+
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    padding: 15px;
+}
+
+.prev {
+
+    text-align: center;
+}
+
+.prev:hover {
+
+    background-color: #dd232c;
+}
+
+.wrong {
+
+    color: red;
+}
+
+.preme{
+    height: 80px;
+    width:  240px;
+    margin-top: 20px;
+}
